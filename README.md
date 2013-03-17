@@ -1,4 +1,4 @@
 recipe
 =====
 
-* <肉じゃが.md>
+* <https://github.com/perfect-freeze/recipe/edit/master/肉じゃが.md>
